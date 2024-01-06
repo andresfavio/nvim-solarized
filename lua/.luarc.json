@@ -1,0 +1,18 @@
+{
+    "diagnostics.disable": [
+        "missing-fields",
+        "param-type-mismatch",
+        "undefined-doc-name",
+        "unused-local",
+        "undefined-field",
+        "different-requires",
+        "undefined-global"
+    ],
+    "diagnostics.globals": [
+        "MiniHipatterns",
+        "enable",
+        "vim",
+        "jit",
+        "leader"
+    ]
+}
